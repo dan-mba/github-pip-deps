@@ -1,0 +1,62 @@
+{
+  "packages": [
+    {
+      "count": 3,
+      "list": [
+        "pylint"
+      ]
+    },
+    {
+      "count": 2,
+      "list": [
+        "autopep8",
+        "gunicorn",
+        "numpy",
+        "pandas"
+      ]
+    },
+    {
+      "count": 1,
+      "list": [
+        "aiofiles",
+        "astroid",
+        "aws-cdk-lib",
+        "aws-cdk.aws-apigatewayv2-alpha",
+        "aws-cdk.aws-apigatewayv2-integrations-alpha",
+        "bokeh",
+        "boto3",
+        "certifi",
+        "chardet",
+        "click",
+        "colorama",
+        "constructs",
+        "cycler",
+        "fastapi",
+        "Flask",
+        "idna",
+        "isort",
+        "itsdangerous",
+        "jinja2",
+        "Jinja2",
+        "kiwisolver",
+        "lazy-object-proxy",
+        "MarkupSafe",
+        "matplotlib",
+        "mccabe",
+        "nose",
+        "pyparsing",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "selenium",
+        "six",
+        "tabulate",
+        "toml",
+        "urllib3",
+        "uvicorn[standard]",
+        "Werkzeug",
+        "wrapt"
+      ]
+    }
+  ]
+}
